@@ -3,7 +3,7 @@
     "relation": ["delegate_permission/common.handle_all_urls"],
     "target": {
       "namespace": "android_app",
-      "package_name": "com.facebook.hackbook.internal.current",
+      "package_name": "com.hackbook.hb4a",
       "sha256_cert_fingerprints":
         ["E8:E4:69:BB:29:59:49:4C:8B:3B:62:CE:94:91:23:08:5C:F7:61:42:89:F0:23:EC:8A:6C:3B:4A:5B:12:03:50"]
     }
